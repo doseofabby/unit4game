@@ -1,0 +1,55 @@
+body {
+    background-image: url("https://cdna.artstation.com/p/assets/images/images/006/277/322/large/jack-oldham-galaxy-mountain-wallpaper-2.jpg?1497352084");
+    text-align: center;
+} 
+
+h1, h2, h3, h4 { 
+    font-size: 30px;
+}
+
+h1{
+    color: white;
+}
+
+h2 {
+    color: yellow; 
+}
+
+h3 {
+    color: red;
+
+}
+
+h4 {
+    color: darkblue;
+}
+
+p {
+    font-size: 25px;
+}
+
+button {
+    width:200px;
+    height: 200px;
+    opacity: 0;
+}
+
+#diamond1 {
+    position: absolute;
+    z-index:0;
+}
+
+#diamond2 {
+    position: absolute;
+    z-index: 0;
+}
+
+#diamond3 {
+    position: absolute;
+    z-index: 0;
+}
+
+#diamond4 {
+    position: absolute;
+    z-index: 0;
+}
